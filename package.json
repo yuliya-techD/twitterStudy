@@ -1,0 +1,15 @@
+{
+  "name": "twitterstudy",
+  "version": "1.0.0",
+  "description": "study project",
+  "main": "twitterStudy.js",
+  "scripts": {
+    "start":"node twitterStudy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
